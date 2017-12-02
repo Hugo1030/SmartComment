@@ -8,7 +8,7 @@
     - 说明文档：[文档链接](https://github.com/Hugo1030/SmartComment/blob/master/README.md)
 - 团队介绍（如组队）
     - 团队名称: 黑骑士（Black Knight）
-    - 成员介绍: 阿虎-wuhuhu800-北京、沥川-Hugo1030-北京
+    - 成员介绍: 阿虎-wuhuhu800-北京、沥川-Hugo1030-北京、eleven－elevenera－北京
 
 ## ChangeLog
 
